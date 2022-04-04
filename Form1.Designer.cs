@@ -1,6 +1,6 @@
 ﻿namespace Week_7_penugasan_praktikum
 {
-    partial class Form1
+    partial class formQuizPanda
     {
         /// <summary>
         ///  Required designer variable.
@@ -118,7 +118,7 @@
             this.buttonKonversi.UseVisualStyleBackColor = true;
             this.buttonKonversi.Click += new System.EventHandler(this.buttonKonversi_Click);
             // 
-            // Form1
+            // formQuizPanda
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -133,8 +133,8 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "formQuizPanda";
+            this.Text = "QUIZ PANDA";
             this.ResumeLayout(false);
             this.PerformLayout();
 

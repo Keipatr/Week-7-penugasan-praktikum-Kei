@@ -1,8 +1,8 @@
 namespace Week_7_penugasan_praktikum
 {
-    public partial class Form1 : Form
+    public partial class formQuizPanda : Form
     {
-        public Form1()
+        public formQuizPanda()
         {
             InitializeComponent();
         }
