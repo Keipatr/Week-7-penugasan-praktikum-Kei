@@ -21,7 +21,7 @@ namespace Week_7_penugasan_praktikum
                 int j = Convert.ToInt32(kalimat[i]);
                 if ((j + tambahIndex) > 90)
                 {
-                    nilaiHuruf[i] = 65 + j + (tambahIndex) - 90;
+                    nilaiHuruf[i] = 64 + j + (tambahIndex) - 90;
                 }
                 else if((j + tambahIndex) < 65)
                 {
